@@ -1,9 +1,10 @@
-# Mattia Lancellotti
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattialancellotti&theme=vue_dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattialancellotti&layout=compact"/>
-</div>
+<h2 style="text-align: center;">Hello there :wave: :wave: </h2>
+Hi, I'm ✨ Mattia Lancellotti ✨ and I work as an IT Technician. I enjoy programming, writing scripts, reading and playing videogames.</br></br>
 
+<p>Something about me: </p>
+- 🔭 Personal projects I'm working on Stow (clone), PasswdManager and CV; </br>
+- 🌱 Currently learning Golang, PowerShell and x86 assembly; </br>
+- 📫 If you want to contact me 👉lancellottimattia@pm.me👈. </br>
 <!--
 **mattialancellotti/mattialancellotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
