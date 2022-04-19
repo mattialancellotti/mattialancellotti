@@ -2,7 +2,7 @@
 Hi, I'm ✨ Mattia Lancellotti ✨ and I work as an IT Technician. I enjoy programming, scripting, reading and playing videogames.</br></br>
 
 <p>Something about me: </p>
-- 🔭 Personal projects I'm working on Stow (clone), PasswdManager and CV; </br>
+- 🔭 Personal projects I'm working on are Stow (clone), PasswdManager and CV; </br>
 - 🌱 Currently learning Golang, PowerShell and x86 assembly; </br>
 - 📫 If you want to contact me 👉lancellottimattia@pm.me👈. </br>
 <!--
