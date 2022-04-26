@@ -5,6 +5,7 @@ Hi, I'm ✨ Mattia Lancellotti ✨ and I work as an IT Technician. I enjoy progr
 - 🔭 Personal projects I'm working on are Stow (clone), PasswdManager and CV; </br>
 - 🌱 Currently learning Golang, PowerShell and x86 assembly; </br>
 - 📫 If you want to contact me 👉lancellottimattia@pm.me👈. </br>
+- 💻 Areas of interest are Application Developer, Game developer (change of career). </br>
 <!--
 **mattialancellotti/mattialancellotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
