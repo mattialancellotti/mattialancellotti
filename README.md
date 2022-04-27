@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Hello there :wave: :wave: </h2>
-Hi, I'm ✨ Mattia Lancellotti ✨ and I work as an IT Technician. I enjoy programming, scripting, reading and playing videogames.</br></br>
+🇮🇹 Hi, I'm ✨ Mattia Lancellotti ✨ and I work as an IT Technician. I enjoy programming, scripting, reading and playing videogames.</br></br>
 
 <p>Something about me: </p>
 - 🔭 Personal projects I'm working on are Stow (clone), Arrubo and CV; </br>
