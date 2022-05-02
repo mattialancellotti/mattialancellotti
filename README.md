@@ -23,6 +23,7 @@ Technologies I know and use: </br>
 ![Linux](https://img.shields.io/badge/Linux-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
 
 Linux distros I tried and used (currently on Gentoo): </br>
+![Debian](https://img.shields.io/badge/Debian-CC342D?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=black)
 ![Gentoo](https://img.shields.io/badge/Gentoo-56347C?style=for-the-badge&logo=gentoo&logoColor=black)
