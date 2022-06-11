@@ -5,6 +5,6 @@
     <text fill="#FFF" x="13.5" y="14" font-family='"DejaVu Sans Mono", "Source code variable", monospace' font-size="15">Tools</text>
     <path fill="#0175C2" d="M68,0 140,0 149,10 140,20 68,20 77,10"></path>
     <text fill="#FFF" x="81.5" y="14" font-family='"DejaVu Sans Mono", "Source code variable", monospace' font-size="15">Docker</text>
-    <path fill="#FF712D" d="M145,0 190,0 199,10 190,20 145,20 154,10"></path>
+    <path fill="#ef391a" d="M145,0 190,0 199,10 190,20 145,20 154,10"></path>
     <text fill="#FFF" x="158.5" y="14" font-family='"DejaVu Sans Mono", "Source code variable", monospace' font-size="15">Git</text>
 </svg>
