@@ -2,7 +2,7 @@
 🇮🇹 Hi, I'm ✨ Mattia Lancellotti ✨ and I work as a .NET developer. I enjoy programming, scripting, reading and playing videogames.</br></br>
 
 Something about me:
-- 🌱 Currently learning Golang, PowerShell and x86 assembly; </br>
+- 🌱 Currently learning Golang; </br>
 - 📫 If you want to contact me 👉lancellottimattia@pm.me👈; </br>
 
 Languages I know and use: </br>
