@@ -4,7 +4,8 @@ I enjoy programming, reading and playing videogames.</br></br>
 
 Something about me:
   - 🌱 Currently learning Golang; </br>
-  - 📫 If you want to contact me 👉lancellottimattia@pm.me👈. </br>
+  - 📫 If you want to contact me 👉lancellottimattia@pm.me👈; </br>
+  - 🦆 Spoiler I'm not a duck. </br>
 
 
 <table>
