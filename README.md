@@ -3,7 +3,7 @@ Hi, I'm ✨ Mattia Lancellotti ✨ and I work as a .NET developer.
 I enjoy programming, reading and playing videogames.</br></br>
 
 Something about me:
-  - 🌱 Currently learning Golang; </br>
+  - 🌱 Currently learning Golang, C# WPF, .NET; </br>
   - 📫 If you want to contact me 👉lancellottimattia@pm.me👈; </br>
   - 🦆 Spoiler I'm not a duck. </br>
 
