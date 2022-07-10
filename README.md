@@ -3,7 +3,7 @@ Hi, I'm ✨ Mattia Lancellotti ✨ and I work as a .NET developer.
 I enjoy programming, reading and playing videogames.</br></br>
 
 Something about me:
-  - 🌱 Currently learning Golang, C# WPF, .NET; </br>
+  - 🌱 Currently learning Golang, C#, .NET; </br>
   - 📫 If you want to contact me 👉lancellottimattia@pm.me👈; </br>
   - 🦆 Spoiler I'm not a duck. </br>
 
@@ -30,7 +30,7 @@ Something about me:
       <tr>
         <td>Frameworks</td>
         <td>
-          <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=c-sharp&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -39,6 +39,7 @@ Something about me:
           <img src="https://img.shields.io/badge/Docker-0175C2?style=flat&logo=docker&logoColor=white"/>
           <img src="https://img.shields.io/badge/Git-F14E32?style=flat&logo=git&logoColor=white"/>
           <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
         </td>
       </tr>
       <tr>
