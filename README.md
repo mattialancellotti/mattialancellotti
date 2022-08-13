@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Hello there :wave: :wave: </h2>
-Hi, I'm ✨ Mattia Lancellotti ✨ and I work as a .NET developer.
+Hi, I'm ✨ Mattia Lancellotti ✨ and I work as a Tools Developer using .NET and C#.
 I enjoy programming, reading and playing videogames.</br></br>
 
 Something about me:
