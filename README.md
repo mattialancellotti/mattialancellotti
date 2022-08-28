@@ -28,8 +28,9 @@ Something about me:
         </td>
       </tr>
       <tr>
-        <td>Frameworks</td>
+        <td>UI Frameworks</td>
         <td>
+          <img src="https://img.shields.io/badge/Windows Forms-5C2D91?style=flat&logo=c-sharp&logoColor=white"/>
           <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=c-sharp&logoColor=white"/>
         </td>
       </tr>
